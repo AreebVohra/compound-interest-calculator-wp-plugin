@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/css/main.ee68df97.chunk.css",
+    "main.js": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/js/main.e5d09c8d.chunk.js",
+    "main.js.map": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/js/main.e5d09c8d.chunk.js.map",
+    "runtime-main.js": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/js/runtime-main.b974538d.js",
+    "runtime-main.js.map": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/js/runtime-main.b974538d.js.map",
+    "static/js/2.6156bae7.chunk.js": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/js/2.6156bae7.chunk.js",
+    "static/js/2.6156bae7.chunk.js.map": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/js/2.6156bae7.chunk.js.map",
+    "index.html": "/wp-content/plugins/compound-interest-calculator-react/widget/build/index.html",
+    "precache-manifest.03a76ea56bc3ce75ab3e2cffdab9d6d9.js": "/wp-content/plugins/compound-interest-calculator-react/widget/build/precache-manifest.03a76ea56bc3ce75ab3e2cffdab9d6d9.js",
+    "service-worker.js": "/wp-content/plugins/compound-interest-calculator-react/widget/build/service-worker.js",
+    "static/css/main.ee68df97.chunk.css.map": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/css/main.ee68df97.chunk.css.map",
+    "static/js/2.6156bae7.chunk.js.LICENSE.txt": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/js/2.6156bae7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/media/required.be645ffe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b974538d.js",
+    "static/js/2.6156bae7.chunk.js",
+    "static/css/main.ee68df97.chunk.css",
+    "static/js/main.e5d09c8d.chunk.js"
+  ]
+}

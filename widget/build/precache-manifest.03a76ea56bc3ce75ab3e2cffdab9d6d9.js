@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "464c948ced4aa2b4cc2e440413ba6e2f",
+    "revision": "708ab556cf2d581c7d3cb2e8346e05d6",
     "url": "/wp-content/plugins/compound-interest-calculator-react/widget/build/index.html"
   },
   {
-    "revision": "d6b7348c7942bbac88fe",
-    "url": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/css/main.0f26a8f5.chunk.css"
+    "revision": "c925846689f91358ed11",
+    "url": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/css/main.ee68df97.chunk.css"
   },
   {
     "revision": "3b59f2e6070e1c14c320",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/js/2.6156bae7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d6b7348c7942bbac88fe",
+    "revision": "c925846689f91358ed11",
     "url": "/wp-content/plugins/compound-interest-calculator-react/widget/build/static/js/main.e5d09c8d.chunk.js"
   },
   {
