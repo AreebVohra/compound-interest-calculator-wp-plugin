@@ -6,6 +6,7 @@
  * Description:       Custom Plugin made with React to calculate the addition of interest to the principal sum of a loan or deposit. shortcode [erw_widget]
  * Version:           1.0.0
  * Author:            Areeb Vohra
+ * Author URI:        https://areebvohra.github.io/
  */
 
 defined('ABSPATH') or die('Direct script access disallowed.');
